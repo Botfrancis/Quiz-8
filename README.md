@@ -1,40 +1,22 @@
-# jche0200_9103_tut5
-My first repository for IDEA9103
 
-This is my first local change to the repo!
+# Quiz8 
+###### Jiahe Chen 540265392 
 
-# header 1
-## header 2
-### header 3
-#### header 4
-##### header 5
-###### header 6
+**Part 1:Imaging Technique Inspiration**
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+![berliner-plaetze.jpg](readmeimages/berliner-plaetze.jpg)
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+![landscape](readmeimages/landscape.png)
 
-  1. First Item
-2. Second Item
-3. Third Item
-
-[Link Text](https://www.google.com
-Links to an external site.)
-
-![An image of a cat](https://placekitten.com/200/300
-Links to an external site.)
+*The imaging technique I chose is the erasure effect. The above are two works by Julie Merz. Her works combine painting and abstract expression, often creating rich visual effects through erasure and overlapping. By showing the erasure process, users can observe the dynamic changes of artistic creation and enhance their understanding of the artist's intentions and practices. At the same time, the erasure technology can also be combined with other technologies to provide rich expression methods and bring more creative possibilities.*
 
 
-![mona lisa image](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700%20(1).jpg)
+**Part 2: Imaging Technique Exploration**
 
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
+![artwork](readmeimages/artwork.png)
 
-> This is a blockquote.
+![artwork2](readmeimages/artwork2.png)
+
+*The two images above use the copy() technique.We will use this technique to achieve the erasure effect You can simulate coloring an image by copying the colored image on top of the black and white image (by dragging the cursor there). This coding technique makes the structure and color clearer by breaking the artwork down into its basic elements. Using classes and functions improves the readability and maintainability of the code, making it easier for team members to customize and animate it. Ultimately, this approach enhances creative expression, allowing everyone to reproduce and explore the artwork in unique ways.*
+
+[Link Text](https://p5js.org/examples/imported-media-copy-image-data/ Links to an external site.)
